@@ -1,0 +1,5 @@
+flask>=3.0
+python-dotenv>=1.0
+requests>=2.31
+deemix==3.6.6
+deezer-py==1.3.6
